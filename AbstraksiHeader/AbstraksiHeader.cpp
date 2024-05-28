@@ -10,4 +10,4 @@ int main()
 	x - pow(2, 3);
 
 	cout << x << endl;
-}
+} 
